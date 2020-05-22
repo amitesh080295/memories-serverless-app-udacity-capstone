@@ -1,4 +1,4 @@
-#Memories App
+# Memories App
 
 This is a serverless application allows you to store your cherished memories and keep them to yourself. Upload image to reminisce and mark your favorites.
 
