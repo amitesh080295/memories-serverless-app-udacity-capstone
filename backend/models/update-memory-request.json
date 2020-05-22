@@ -1,0 +1,18 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "title": "group",
+  "type": "object",
+  "properties": {
+    "name": {
+      "type": "string"
+    },
+    "memoryDate": {
+      "type": "string"
+    },
+    "favorite": {
+      "type": "boolean"
+    }
+  },
+  "required": ["name", "memoryDate", "favorite"],
+  "additionalProperties": true
+}
